@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main(void) {
+int main1(void) {
 	int n = 0; int k = 0;
 	string array1[100];
 	int array2[100];
