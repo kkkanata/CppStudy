@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main4() {
+int main5() {
     int a = 0;
     int b = 0;
     char p;
