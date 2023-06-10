@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main(void) {
+int main4(void) {
 	int a = 0; int b = 0;
 	char p; char q;
 	char aray[7] = { 'A', 'B', 'C', 'D', 'E', 'F', 'G' };
