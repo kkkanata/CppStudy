@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main(void) {
+int main6(void) {
 	char c[100];
 	for (int j = 0; j < sizeof(c); j++) {
 		c[j] = 0;
